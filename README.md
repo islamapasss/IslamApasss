@@ -1,12 +1,12 @@
 
-<h2 align="center">Hi There 👋, I'm Eslam Elkhair</h2>
+<h2 align="center">Hi There 👋</h2>
 
 
 
 
-- 👨‍💻 You can visit out my Website at https://sites.google.com/view/eslamelkhair
+- You can visit out my Website at https://sites.google.com/view/eslamelkhair
 
-- 📫 you can also reach me at **esotech3@gmail.com**
+- you can also reach me at **esotech3@gmail.com**
 
 <p align ="center" > 
 <a href="https://www.linkedin.com/in/eslamelkhair/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eslam elkhair" height="30" width="40" /></a>
